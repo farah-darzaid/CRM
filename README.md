@@ -33,13 +33,13 @@ Install dependencies:
 composer install
 ```
 
+* Rename .env.example to .env and edit to match your configuration.
+
 Generate encryption key:
 
 ```bash
 php artisan key:generate
 ```
-
-* Rename .env.example to .env and edit to match your configuration.
 
 * Create new schema and name it whatever you want, but remember to reflect this on .env file
 
