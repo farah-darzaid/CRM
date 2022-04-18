@@ -18,7 +18,7 @@
 Clone this repository: 
 
 ```bash
- git clonehttps://github.com/farah-darzaid/CRM.git
+ git clone https://github.com/farah-darzaid/CRM.git
 ```
 
 Go inside project folder
