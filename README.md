@@ -1,8 +1,8 @@
 # Introduction
 
-* This project built as training of designing and auth system in Laravel.
+* This simple CRM task.
 
-* Application Name: Office Home.
+* Application Name: CRM.
 
 * Developer Info:
   * Name: Farah Darzaid.
@@ -10,21 +10,21 @@
   * E-mail: Darzaid.farah@gmail.com.
 
 *App development environment:
-   * PHP 7.2
-   * LAravel Framework 7.0
+   * PHP 8.0.12
+   * LAravel Framework 9.8.1
 
 ## Installation
 
 Clone this repository: 
 
 ```bash
- git clone https://github.com/farah-darzaid/Office_Home.git
+ git clonehttps://github.com/farah-darzaid/CRM.git
 ```
 
 Go inside project folder
 
 ```bash
-cd Office_Home
+cd CRM
 ```
 
 Install dependencies:
@@ -62,8 +62,8 @@ php artisan serve
 Laravel development server started: http://127.0.0.1:8000
 ```
 
-* If you run the seeds, then you can login by either of these two users:
+* If you run the seeds, then you can login as admin with these credentials:
 
     * User     
-      * Email: user@localhost.com
-      * Password: user
+      * Email: admin@admin.com
+      * Password: password
